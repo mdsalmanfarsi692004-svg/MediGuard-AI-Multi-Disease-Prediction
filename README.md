@@ -10,11 +10,11 @@ Fast: Instant predictions using pre-trained models.
 
 Reliable: Built on standard medical datasets (PIMA, Cleveland, Oxford).
 
-**Live Demo / Screenshots**
-
-Live App Link:
+**Live App Link:**
 
 https://mediguard-ai-multi-disease-prediction.streamlit.app/
+
+**📷 Project Visuals**
 
 **Main Dashboard**
 <img width="1919" height="919" alt="0) Main Dashboard" src="https://github.com/user-attachments/assets/faf73dc5-37ba-4a98-a2c7-c8cd2b0b41ad" />
