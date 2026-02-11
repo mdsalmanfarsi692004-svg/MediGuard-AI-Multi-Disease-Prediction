@@ -24,6 +24,7 @@ Reliable: Built on standard medical datasets (PIMA, Cleveland, Oxford).
 **🌟 Key Features**
 
 **1. 🍬 Diabetes Prediction**
+
 Algorithm: Support Vector Machine (SVM) / Random Forest
 
 Input: Pregnancies, Glucose, BP, Skin Thickness, Insulin, BMI, Age.
@@ -31,6 +32,7 @@ Input: Pregnancies, Glucose, BP, Skin Thickness, Insulin, BMI, Age.
 Functionality: Classifies patient as Diabetic or Healthy based on PIMA dataset trends.
 
 **2. ❤️ Heart Disease Prediction**
+
 Algorithm: Logistic Regression
 
 Input: Chest Pain Type, Resting BP, Cholesterol, Max Heart Rate, etc.
@@ -38,6 +40,7 @@ Input: Chest Pain Type, Resting BP, Cholesterol, Max Heart Rate, etc.
 Functionality: Assesses cardiac risk factors to predict potential heart disease.
 
 **3. 🧠 Parkinson's Disease Detection**
+
 Algorithm: Support Vector Machine (SVM)
 
 Input: Vocal features (MDVP:Fo, Jitter, Shimmer, Spread1, Spread2).
@@ -47,9 +50,13 @@ Functionality: Analyzes voice frequency patterns to detect early signs of Parkin
 **🛠️ Tech Stack**
 
 Frontend,"Streamlit, Streamlit Option Menu"
+
 Backend,Python 3.9+
+
 Machine Learning,"Scikit-Learn, NumPy, Pandas"
+
 Model Saving,Pickle (Joblib)
+
 Development,"VS Code, Jupyter Notebook"
 
 **📊 Model Performance**
