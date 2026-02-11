@@ -130,4 +130,5 @@ This project is for educational purposes only. It is not a substitute for profes
 
 Made with ❤️ by Md Salman Farsi
 
-Connect with me on LinkedIn:https://www.linkedin.com/in/md-salman-farsi-data-analyst | Github:https://github.com/mdsalmanfarsi692004-svg
+Connect with me on 
+LinkedIn:https://www.linkedin.com/in/md-salman-farsi-data-analyst | Github:https://github.com/mdsalmanfarsi692004-svg
