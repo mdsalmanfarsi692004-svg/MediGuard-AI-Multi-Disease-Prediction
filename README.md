@@ -74,6 +74,7 @@ Parkinson's Model: 87.5% Accuracy (SVM Kernel)
 Follow these steps to run the project locally on your machine.
 
 Prerequisites
+
 Python 3.8 or higher installed.
 
 Step 1: Clone the Repository
@@ -87,6 +88,7 @@ Step 3: Run the Application
 streamlit run main.py
 
 **📂 Project Structure**
+
 MediGuard-AI/
 ├── 📂 data/                # Dataset files (csv)
 ├── 📂 models/              # Trained models (.sav files)
@@ -99,6 +101,7 @@ MediGuard-AI/
 └── README.md               # Project Documentation
 
 **🔮 Future Scope**
+
 Mobile App: Converting the web app into a mobile application using Flutter/React Native.
 
 Deep Learning: Implementing Neural Networks (ANN/CNN) for higher accuracy.
@@ -108,6 +111,7 @@ Report Generation: Auto-generating PDF reports for patients to share with doctor
 More Diseases: Adding modules for Kidney Disease and Liver Disease prediction.
 
 **🤝 Contribution**
+
 Contributions are welcome! If you want to improve the UI or add better models:
 
 Fork the Project.
@@ -121,6 +125,7 @@ Push to the Branch (git push origin feature/NewFeature).
 Open a Pull Request.
 
 **⚠️ Disclaimer**
+
 This project is for educational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment.
 
 Made with ❤️ by Md Salman Farsi
