@@ -11,9 +11,14 @@ Fast: Instant predictions using pre-trained models.
 Reliable: Built on standard medical datasets (PIMA, Cleveland, Oxford).
 
 **Live Demo / Screenshots**
+
+**Main Dashboard**
 <img width="1917" height="919" alt="1) Main Dashboard" src="https://github.com/user-attachments/assets/58794585-058b-4d25-a004-abfe0d1b1584" />
+**Diabetes Dashboard**
 <img width="1918" height="917" alt="2) Diabetes Default Dashboard" src="https://github.com/user-attachments/assets/0db6436c-7927-4679-a975-f1f602f7fd52" />
+**Heart Disease Dashboard**
 <img width="1914" height="926" alt="5) Heart Disease Default Dashboard" src="https://github.com/user-attachments/assets/f12c241b-0b25-4239-94d1-987a289053d4" />
+**Parkinson's Dashboard**
 <img width="1905" height="930" alt="8) Parkinson&#39;s Default Dashboard" src="https://github.com/user-attachments/assets/5e33ea1f-85d4-471e-875a-48c30cc1cf26" />
 
 **🌟 Key Features**
