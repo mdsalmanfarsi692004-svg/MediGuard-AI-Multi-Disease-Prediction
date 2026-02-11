@@ -1,4 +1,5 @@
 **🔍 Overview**
+
 In the healthcare sector, early diagnosis is crucial for effective treatment. MediGuard AI is a web-based application that leverages Machine Learning algorithms to provide a preliminary assessment of three major diseases based on user input.
 
 The system is designed to be:
