@@ -12,14 +12,22 @@ Reliable: Built on standard medical datasets (PIMA, Cleveland, Oxford).
 
 **Live Demo / Screenshots**
 
+Live App Link:
+
+https://mediguard-ai-multi-disease-prediction.streamlit.app/
+
 **Main Dashboard**
-<img width="1917" height="919" alt="1) Main Dashboard" src="https://github.com/user-attachments/assets/58794585-058b-4d25-a004-abfe0d1b1584" />
+<img width="1919" height="919" alt="0) Main Dashboard" src="https://github.com/user-attachments/assets/faf73dc5-37ba-4a98-a2c7-c8cd2b0b41ad" />
+
 **Diabetes Dashboard**
-<img width="1918" height="917" alt="2) Diabetes Default Dashboard" src="https://github.com/user-attachments/assets/0db6436c-7927-4679-a975-f1f602f7fd52" />
+<img width="1896" height="915" alt="1) Diabetes Dashboard" src="https://github.com/user-attachments/assets/d07855b4-f355-4c2c-a437-b895a69c94ab" />
+
 **Heart Disease Dashboard**
-<img width="1914" height="926" alt="5) Heart Disease Default Dashboard" src="https://github.com/user-attachments/assets/f12c241b-0b25-4239-94d1-987a289053d4" />
+<img width="1900" height="915" alt="4) Heart Disease Dashboard" src="https://github.com/user-attachments/assets/f7b79b4f-9b1f-4dcb-a797-ec18debad4f4" />
+
 **Parkinson's Dashboard**
-<img width="1905" height="930" alt="8) Parkinson&#39;s Default Dashboard" src="https://github.com/user-attachments/assets/5e33ea1f-85d4-471e-875a-48c30cc1cf26" />
+<img width="1897" height="914" alt="7) Parkinson&#39;s Dashboard" src="https://github.com/user-attachments/assets/2f407285-180c-4f4e-a66d-20162c53957b" />
+
 
 **🌟 Key Features**
 
