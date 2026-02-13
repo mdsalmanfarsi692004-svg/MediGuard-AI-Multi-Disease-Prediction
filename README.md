@@ -14,6 +14,9 @@ Reliable: Built on standard medical datasets (PIMA, Cleveland, Oxford).
 
 https://mediguard-ai-multi-disease-prediction.streamlit.app/
 
+**Live Video Link (Google Drive)**
+
+https://drive.google.com/file/d/1OiopU8kNBTnU3LxjT0hph8mkhiq7vcW1/view?usp=drive_link
 
 **📷 Project Visuals**
 
